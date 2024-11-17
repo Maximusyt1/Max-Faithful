@@ -5,3 +5,4 @@ Changes from the original:
 - Hardcore hearts
 - Better redstone lines
 - Better wool
+- 1.21 Redstone torches
